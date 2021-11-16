@@ -1,11 +1,3 @@
 .gitignore
 
-venv/
-
 .idea/
-
-source/
-
-data/
-
-data.zip/
