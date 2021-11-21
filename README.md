@@ -2,7 +2,7 @@
 Looking at the universe, one of the world's few wonders, I hope that busy modern people will think again about how to live in a dusty universe.
 * Pytorch GAN Tutorial : [바로가기](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)     
 * Image source : Pixabay   
-* Image count : 3612개   
+* Image count : 3612   
 * Data : [zip file](https://drive.google.com/file/d/16rLH8ldl5zvqNetabg3rNrGySOxXsh1m/view?usp=sharing)
 
 <img width='400' src='https://user-images.githubusercontent.com/68007145/141922214-75448ed4-f476-429b-9100-b8d158dcb3cc.gif'>
