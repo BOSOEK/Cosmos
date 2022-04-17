@@ -1,6 +1,6 @@
 # The enchanting Cosmos
 Looking at the universe, one of the world's few wonders, I hope that busy modern people will think again about how to live in a dusty universe.
-* Pytorch GAN Tutorial : [바로가기](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)     
+* Pytorch GAN Tutorial : [튜토리얼 바로가기](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)     
 * Image source : Pixabay   
 * Image count : 3612   
 * Data : [link](https://www.kaggle.com/kimbosoek/cosmos-images)
